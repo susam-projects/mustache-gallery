@@ -1,0 +1,23 @@
+{
+  "name": "mustache-gallery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/susam-projects/mustache-gallery.git"
+  },
+  "author": "Susam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/susam-projects/mustache-gallery/issues"
+  },
+  "homepage": "https://github.com/susam-projects/mustache-gallery#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "prettier": "^2.2.1"
+  }
+}
