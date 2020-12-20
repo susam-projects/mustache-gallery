@@ -8,6 +8,10 @@ indent_size = 4
 charset = utf-8
 trim_trailing_whitespace = false
 
+[*.template.js]
+indent_style = space
+indent_size = 2
+
 [*.{html,css}]
 indent_style = space
 indent_size = 2
