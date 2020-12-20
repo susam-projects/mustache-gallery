@@ -112,6 +112,7 @@ class Gallery {
             .find('.gallery__images-container')
             .css('width', imagesWidth);
 
+        // setting image size here to not repeat the same values in css
         this._$container
             .find('.gallery__image-item')
             .css('width', IMAGE_SIZE)
